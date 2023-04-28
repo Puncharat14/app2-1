@@ -3,7 +3,7 @@ import react from 'react'
 export default class Msgbox2 extends React.Component {
     render(){
     const divStyle={
-        margin: '10px',
+        margin: '10px', 
         padding: '5px',
         color: this.props.color,
         backgoundColor: this.props.bgColor,
